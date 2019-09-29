@@ -3,7 +3,9 @@ layout: page
 title: About
 published: true
 ---
-![berlinwallpic.jpg]({{site.baseurl}}/berlinwallpic.jpg)
+![fullsizeoutput_1c77-min.jpg]({{site.baseurl}}/fullsizeoutput_1c77-min.jpg)
+
+
 
 
 I'm a second-year undergrad studying neuroscience and math at UCLA. I've interned at the [Systems Neurobiology Laboratory](https://callaway.salk.edu/) under the direction of Dr. Edward Callaway at the Salk Institute. 
