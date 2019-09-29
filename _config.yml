@@ -1,9 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
+highlighter:      rouge
 
 # Setup
 title:            Rehan Chinoy
