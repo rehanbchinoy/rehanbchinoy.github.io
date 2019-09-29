@@ -6,13 +6,10 @@ highlighter:      rouge
 title:            Rehan Chinoy
 description:      'Research portfolio and blog.'
 url:              https://rehanchinoy.com/
-baseurl:          /
+baseurl:          https://rehanchinoy.com/
 
 author:
   name:           'Rehan Chinoy'
   url:            
 
-paginate:         5
-
-github:
-  repo:          
+paginate:         5       
