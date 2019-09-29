@@ -7,9 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Rehan Chinoy
-tagline:          'A Jekyll theme'
-description:      'A portfolio and blog site for UCLA student Rehan Chinoy'
-url:              http://hyde.getpoole.com
+description:      'Research portfolio and blog.'
+url:              https://rehanchinoy.com/
 baseurl:          /
 
 author:
@@ -17,9 +16,6 @@ author:
   url:            
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
 
 github:
   repo:          
