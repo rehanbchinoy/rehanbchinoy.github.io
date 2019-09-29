@@ -2,29 +2,8 @@
 layout: page
 title: About
 ---
+Hi! I'm Rehan. I'm a second-year undergrad studying neuroscience and math at UCLA. I've interned at the [Systems Neurobiology Laboratory](https://callaway.salk.edu/) under the direction of Dr. Edward Callaway at the Salk Institute. 
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm primarily interested in how physical interactions between neurons can give rise to subjective mental phenomena. In addition, as a proponent of the computational theory of mind, I'm interested in using mathematical models to elucidate the computation that underpins "mental modules" like vision and memory.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I'm currently seeking a research position for the 2019-2020 academic year. You can get in touch via [email](mailto:rehanbchinoy@gmail.com). Thanks for reading!
