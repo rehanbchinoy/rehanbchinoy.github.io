@@ -9,7 +9,7 @@ Hi there! I’m Rehan Chinoy, and this is my personal site, where I write about 
 
 Currently, my main research interest is, broadly speaking, how physical interactions between neurons can give rise to mental phenomena (e.g. the neural mechanism for imagining Brad Pitt's face). I'm interested in making this overarching question more tractable by focusing on the neural computation of certain aspects of memory and vision (such as temporal processing). To achieve this, I'm interested in using methods from the domain of computational neuroscience, such as deep learning models.
 
-My goal here is to explain things simply, but comprehensively. However, I am sometimes unclear in my reasoning or limited in my domain knowledge. Moreover, the nature of science is that it is ever-changing -- models and theories are constantly being updated. As such, please reach out if you think that something should be changed, or for any other professional reasons.
+My goal here is to explain things simply, but comprehensively. However, I am sometimes unclear in my reasoning or limited in my domain knowledge. Moreover, the nature of science is that it is ever-changing -- models and theories are constantly being updated. As such, please reach out if you think something is not quite right.
 
 ## About Me
 
