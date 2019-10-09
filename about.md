@@ -3,7 +3,6 @@ layout: page
 title: About
 published: true
 ---
-## About this Site
 
 Hi there! I’m Rehan Chinoy, and this is my personal site, where I write about my research in computational neuroscience and other interesting ideas in cognitive science, mathematics, and philosophy. Most of the posts I write here are geared towards a general audience; however, the research section details some of my more technical work.
 
