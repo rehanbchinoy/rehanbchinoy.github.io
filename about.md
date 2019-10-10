@@ -15,4 +15,4 @@ I'm a second-year undergrad studying applied math and neuroscience at UCLA. I've
 
 In my free time, I like to play soccer, watch Scorcese films, go to concerts in LA, and catch California sunsets.
 
-My resume is [here]("rehanbchinoy.github.io/RC_resume.pdf"). You can get in touch via [email](mailto:rehanbchinoy@gmail.com).
+My resume is [here](rehanbchinoy.github.io/RC_resume.pdf). You can get in touch via [email](mailto:rehanbchinoy@gmail.com).
