@@ -29,8 +29,8 @@ So what were my actual contributions to this project?
 
 ### Video Presentation & Poster
 
-At the end of the summer, the entire LSSI cohort each gave a 15-20 minute presentation on their research project. After hours of instruction in PowerPoint and rehearsals in front of LSSI admin, I finally got to present my findings to a crowd of researchers and wealthy donors at the Salk Scholars Symposium. You can find the presentation [here](https://www.youtube.com/watch?v=e9wlPSK0rc8)
+At the end of the summer, the entire LSSI cohort each gave a 15-20 minute presentation on their research project. After hours of instruction in PowerPoint and rehearsals in front of LSSI admin, I finally got to present my findings to a crowd of researchers and wealthy donors at the Salk Scholars Symposium. You can find the presentation [here](https://www.youtube.com/watch?v=e9wlPSK0rc8).
 
-Additionally, I had the opportunity to present my findings at the Symphony at Salk, an annual, world-renowned event that attracts wealthy donors (like Al Gore) and famous scientists. At this event, I presented my work through a poster presentation, giving the guests a general overview of the project and fielding technical questions from a select few domain experts (there were quite a few). I've attached a scanned copy of the poster below:
+Additionally, I had the opportunity to present my findings at the Symphony at Salk, an annual, world-renowned event that attracts wealthy donors (like Al Gore) and famous scientists. At this event, I presented my work through a poster presentation, giving the guests a general overview of the project and fielding technical questions from (quite) a few domain experts. I've attached a scanned copy of the poster below:
 
 Thanks for reading! As always, [contact me](mailto:rehanbchinoy@gmail.com) if you have any questions.
