@@ -43,7 +43,7 @@ Skills practiced:
 - Staining tissue with fluorescent dye (IHC staining)
 - Using a lightsheet microscope in conjunction with software to construct a 3D model of the brain
 
-Tasks completed by my mentor or lab assistants that I observed and took notes on:
+Tasks completed by my mentor or research assistants that I observed:
 - Pefusions of the mouse brain
 - Setting up the lightsheet microscope
 - Injecting a mouse with the CTb viral tracer
