@@ -19,11 +19,32 @@ The first week of the Life Sciences Summer Institute (LSSI) program was a rigoro
 
 ### Overview of Research Project
 
-Because of my nascent interest in neuroscience and a relevant foundation in the life sciences and mathematics, I was paired with the Systems Neurobiology Laboratory (under Dr. Edward Callaway) for a 2-month project. My mentor was Matthew Jacobs, a UCSD graduate with a background in biology; the postdoc leading the project was Euiseok Kim.
+Because of my nascent interest in neuroscience and a relevant foundation in the life sciences and mathematics, I was paired with the Systems Neurobiology Laboratory (under Dr. Edward Callaway) for a 7-week project. My mentor was Matthew Jacobs, a UCSD graduate with a background in biology; the postdoc leading the project was Euiseok Kim.
+
+The project focused on
+
+The methods used were
+
+The initial findings were
 
 ### Contributions to the Project
 
-So what were my actual contributions to this project?
+Daily tasks relevant to the course of the project:
+- Setting up the microscope and analyzing tissue with imaging software (ImageJ and Imaris)
+- Using a brain atlas in conjunction with a software tool to divide cortical tissue into the primary visual cortex (V1) and higher visual areas (HVAs)
+- Identifying the relevant fluorescent cells in the various cortical regions for hundreds of samples, and recording the quantities in a lab notebook
+- Taking inventory of the lab, restocking solutions, handling dry ice
+
+Skills practiced:
+- Sectioning cortical tissue with a microtome
+- Staining tissue with fluorescent dye (IHC staining)
+- Using a lightsheet microscope in conjunction with software to construct a 3D model of the brain
+
+Observed tasks completed by my mentor or lab assistants:
+- Pefusions of the mouse brain
+- Setting up the lightsheet microscope
+- Injecting a mouse with the CTb viral tracer
+- Creating area maps of the cortical tissue using ISI
 
 ### Video Presentation & Poster
 
