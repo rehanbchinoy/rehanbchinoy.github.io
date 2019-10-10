@@ -1,11 +1,11 @@
 ---
 published: true
 ---
-# A Synopsis of My Research at The Salk Institute
+## A Synopsis of My Research at The Salk Institute
 
 {IN PROGRESS}
 
-## Introduction
+### Introduction
 
 This post is clearly long overdue.
 
@@ -17,19 +17,19 @@ So, without further ado, let's get into the details.
 
 ---
 
-## LSSI bootcamp in laboratory methods
+### LSSI bootcamp in laboratory methods
 
 The first week of the Life Sciences Summer Institute (LSSI) program was a rigorous bootcamp in life-science laboratory methods. It was here that I had my first experience using various lab equipment, such as pipets, pH meters, spectophotometers, etc. I also practiced conventional wet-lab procedures, such as PCR (polymerase chain reaction) and ELISA (enzyme-linked immunosorbent assay). We began each day with a theoretical problem set on the cellular/molecular biology and organic chemistry that undergirds various procedures; after lunch, we took our theoretical knowledge and applied it, following a detailed procedure and recording our hypotheses and data carefully in a lab notebook. The bootcamp was a collaborative space -- I had the opportunity to work with multiple peers on problem sets and mini-labs. Our professor served as both an instructor and a mentor, lecturing on the necessary concepts while helping us through the experiments (and observing strict PPE protocol).
 
-## Overview of Research Project
+### Overview of Research Project
 
 Because of my nascent interest in neuroscience and a relevant foundation in the life sciences and mathematics, I was paired with the Systems Neurobiology Laboratory (under Dr. Edward Callaway) for a 2-month project. My mentor was Matthew Jacobs, a UCSD graduate with a background in biology; the postdoc leading the project was Euiseok Kim.
 
-## Contributions to the Project
+### Contributions to the Project
 
 So what were my actual contributions to this project?
 
-## Video Presentation & Poster
+### Video Presentation & Poster
 
 At the end of the summer, the entire LSSI cohort each gave a 15-20 minute presentation on their research project. After hours of instruction in PowerPoint and rehearsals in front of LSSI admin, I finally got to present my findings to a crowd of researchers and wealthy donors at the Salk Scholars Symposium. You can find the presentation [here](https://www.youtube.com/watch?v=e9wlPSK0rc8)
 
