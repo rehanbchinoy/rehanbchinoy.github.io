@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # A Synopsis of My Research at The Salk Institute
 
@@ -36,11 +36,3 @@ At the end of the summer, the entire LSSI cohort each gave a 15-20 minute presen
 Additionally, I had the opportunity to present my findings at the Symphony at Salk, an annual, world-renowned event that attracts wealthy donors (like Al Gore) and famous scientists. At this event, I presented my work through a poster presentation, giving the guests a general overview of the project and fielding technical questions from a select few domain experts (there were quite a few). I've attached a scanned copy of the poster below:
 
 Thanks for reading! As always, [contact me](mailto:rehanbchinoy@gmail.com) if you have any questions.
-
-
-
-
-
-
-
-
