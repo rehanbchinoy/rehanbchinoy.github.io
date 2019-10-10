@@ -7,7 +7,7 @@ This post is clearly long overdue.
 
 My experience at the Life Sciences Summer Institute (in partnership with The Scripps Research Institute and The Salk Institute) in the summer of 2017 was productive and personally meaningful. It spurred my interest in both neuroscience and academic research more broadly, and it was a privilege to be surrounded by such a brilliant community of mentors and peers. Being so close to the Pacific Ocean didn't hurt either.
 
-After recently being interviewed by a postdoc at a UCLA neuroscience lab -- and consequently being bombarded with techinical questions about my research experience at Salk -- I feel that it's probably a good idea for me to detail my specific contributions to the research project and the skills I picked up along the way, both for companies/researchers to get a good idea of my skillset and for my own mental organization. 
+After recently being interviewed by a postdoc at a UCLA neuroscience lab -- and consequently being bombarded with techinical questions about my research experience at Salk -- I feel that it's probably a good idea for me to detail my specific contributions to the research project and the skills I picked up along the way, both for potential employers and loyal fans to get a good idea of my skillset and for my own mental organization. 
 
 So, without further ado, let's get into the details.
 
