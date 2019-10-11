@@ -7,9 +7,9 @@ This post is clearly long overdue.
 
 My experience at the Life Sciences Summer Institute (in partnership with The Scripps Research Institute and The Salk Institute) in the summer of 2017 was productive and personally meaningful. It spurred my interest in both neuroscience and academic research more broadly, and it was a privilege to be surrounded by such a brilliant community of mentors and peers. Being so close to the Pacific Ocean didn't hurt either.
 
-After recently being interviewed by a postdoc at a UCLA neuroscience lab -- and consequently being bombarded with techinical questions about my research experience at Salk -- I feel that it's probably a good idea for me to detail my specific contributions to the research project and the skills I picked up along the way, both for potential employers and loyal fans to get a good idea of my skillset and for my own mental organization. 
+After recently being interviewed by a postdoc at a UCLA neuroscience lab -- and consequently being bombarded with technical questions about my research experience at Salk -- I feel that it's probably a good idea for me to detail my individual contributions to the research project and the skills I picked up along the way. Providing a synopsis of my research experience and what I gained from it is likely to be beneficial to potential employers, loyal fans, and my own mental organization. 
 
-So, without further ado, let's get into the details.
+So without further ado, let's get into the details.
 
 ### LSSI bootcamp in laboratory methods
 
@@ -17,7 +17,7 @@ The first week of the Life Sciences Summer Institute (LSSI) program was a rigoro
 
 ### Overview of Research Project
 
-Because of my nascent interest in neuroscience and a relevant foundation in the life sciences and mathematics, I was paired with the Systems Neurobiology Laboratory (under Dr. Edward Callaway) for a 7-week project. My mentor was Matthew Jacobs, a UCSD graduate with a background in biology; the postdoc leading the project was Euiseok Kim.
+Because of my nascent interest in neuroscience and a relatively robust foundation in the life sciences and mathematics, I was paired with the Systems Neurobiology Laboratory (under Dr. Edward Callaway) for a 7-week project. My mentor was Matthew Jacobs, a UCSD graduate with a background in biology; the postdoc leading the project was Euiseok Kim.
 
 The project focused on elucidating how neurons in the primary visual cortex (V1) communicate with neurons from higher visual areas (V2, V3, etc.). These neuronal projections are important to understand because they carry distinct visual information. The two extreme models for V1 projection neurons were:
 
