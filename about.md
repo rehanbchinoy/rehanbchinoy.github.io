@@ -5,7 +5,7 @@ published: true
 ---
 Hi there! I’m Rehan Chinoy, and this is my personal site, where I write about my research in computational neuroscience and other interesting ideas in cognitive science, mathematics, and philosophy. Most of the posts I write here are geared towards a general audience; however, the research section details some of my more technical work.
 
-Currently, my main research interest is, broadly speaking, how physical interactions between neurons can give rise to mental phenomena (e.g. the neural mechanism for imagining Brad Pitt's face). I'm interested in making this overarching question more tractable by focusing on the neural computation of certain aspects of memory and vision (such as temporal processing). To achieve this, I'm interested in using methods from the domain of computational neuroscience, such as deep learning models.
+Currently, my main research interest is, broadly speaking, how physical interactions between neurons can give rise to mental phenomena (e.g. the neural mechanism for imagining Brad Pitt's face). I'm working to make this overarching question more tractable by focusing on the neural computation of certain aspects of memory and learning (such as temporal processing). To achieve this, I'm utilizing computational methods, such as deep learning models.
 
 My goal here is to explain things simply, but comprehensively. However, I am sometimes unclear in my reasoning or limited in my domain knowledge. Moreover, the nature of science is that it is ever-changing -- models and theories are constantly being updated. As such, please reach out if you think something is not quite right.
 
