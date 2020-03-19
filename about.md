@@ -11,7 +11,7 @@ My goal here is to explain things simply, but comprehensively. However, I may so
 
 ## About Me
 
-I'm a second-year undergrad studying applied math and neuroscience at UCLA. Currently, I'm a research assistant in the [Buonomano Lab](buonomanolab.com) at UCLA, where I'm training recurrent neural networks (RNNs) to perform time-dependent cognitive tasks and analyzing the dynamics of the network. I've interned at the [Systems Neurobiology Laboratory](https://callaway.salk.edu/) under Dr. Edward Callaway at the Salk Institute. 
+I'm a second-year undergrad studying applied math and neuroscience at UCLA. Currently, I'm a research assistant in the [Buonomano Lab](https://buonomanolab.com) at UCLA, where I'm training recurrent neural networks (RNNs) to perform time-dependent cognitive tasks and analyzing the dynamics of the network. I've interned at the [Systems Neurobiology Laboratory](https://callaway.salk.edu/) under Dr. Edward Callaway at the Salk Institute. 
 
 In my free time, I enjoy playing soccer, watching Coen Brothers' films, and exploring new music.
 
