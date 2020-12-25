@@ -7,9 +7,9 @@ published: true
 
 _Lab Meeting Journal Club_
 
-- Orhan, A. Emin and Ma WJ. [_A Diverse Range of Factors Affect the Nature of Neural Representations Underlying Short-Term Memory_] (). Presented on July 31, 2020.
+- Orhan, A. Emin and Ma WJ. [_A Diverse Range of Factors Affect the Nature of Neural Representations Underlying Short-Term Memory_] (rehanbchinoy.github.io/Orhan_Ma_Sequentiality_STM.pdf). Presented on July 31, 2020.
 
-- Yang GR, Wang X-J et al. [_Task representations in neural networks trained to perform many cognitive tasks_] (). Presented on February 14, 2020.
+- Yang GR, Wang X-J et al. [_Task representations in neural networks trained to perform many cognitive tasks_] (rehanbchinoy.github.io/Yang_Wang_Task_Representations.pdf). Presented on February 14, 2020.
 
 
 ### Systems Neurobiology (Callaway) Lab, Salk Institute for Biological Studies
