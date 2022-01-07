@@ -3,7 +3,7 @@ layout: page
 title: About
 published: true
 ---
-Hi! I’m Rehan, and I'm a second-year undergrad studying applied math and neuroscience at UCLA. Currently, I'm working in the [Buonomano Lab](http://buonomanolab.com) at UCLA, where I'm training recurrent neural networks (RNNs) to perform short-term memory tasks and analyzing the temporal dynamics of the trained networks. 
+I'm a fourth-year undergrad studying applied math and neuroscience at UCLA. Currently, I'm working in the [Buonomano Lab](http://buonomanolab.com) at UCLA, where I'm training recurrent neural networks (RNNs) to perform timing and short-term memory tasks and analyzing the recurrent dynamics of the trained networks. 
 
 In my free time I enjoy doing yoga, playing piano, and playing soccer.
 
