@@ -7,4 +7,4 @@ I'm a fourth-year undergrad studying applied math and neuroscience at UCLA. Curr
 
 In my free time I enjoy doing yoga, playing piano, and playing soccer.
 
-Here are links to my Github(https://github.com/rehanbchinoy), [LinkedIn](https://www.linkedin.com/in/rehan-chinoy-37420911b/), and [resume](rehanbchinoy.github.io/Resume.pdf). You can get in touch via [email](mailto:rehanbchinoy@gmail.com).
+Here are links to my [Github](https://github.com/rehanbchinoy), [LinkedIn](https://www.linkedin.com/in/rehan-chinoy-37420911b/), and [resume](rehanbchinoy.github.io/Resume.pdf). You can get in touch via [email](mailto:rehanbchinoy@gmail.com).
