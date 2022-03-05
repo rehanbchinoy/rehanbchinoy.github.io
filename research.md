@@ -4,8 +4,8 @@ title: Research
 published: true
 ---
 ### Buonomano Lab, UCLA
-_Papers
-- Chinoy RB, Tanwar A, Buonomano DV. [ A Recurrent Neural Network Accounts for Both Timing and Working Memory Components of an Interval Discimination Task. ](rehanbchinoy.github.io/Chinoy_IntervalTiming.pdf) Submitted to _Timing and Time Perception_ in February 2022.
+_Papers_
+- Chinoy RB, Tanwar A, Buonomano DV. [ _A Recurrent Neural Network Accounts for Both Timing and Working Memory Components of an Interval Discimination Task._ ](rehanbchinoy.github.io/Chinoy_IntervalTiming.pdf) Submitted to _Timing and Time Perception_ in February 2022.
 
 _Lab Meeting Journal Club_
 
