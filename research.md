@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Research
+title: Projects
 published: true
 ---
+### Frontier Medicines
+MolSeek - [using vector databases](https://www.pinecone.io/customers/frontier-medicines/) for AI-based chemical similarity search
+
 ### Buonomano Lab, UCLA
 _Papers_
 - Chinoy RB, Tanwar A, Buonomano DV. [ _A Recurrent Neural Network Accounts for Both Timing and Working Memory Components of an Interval Discimination Task._ ](rehanbchinoy.github.io/TTP Paper.pdf) August 2022.
