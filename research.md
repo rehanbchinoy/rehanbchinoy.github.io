@@ -4,7 +4,7 @@ title: Projects
 published: true
 ---
 ### Frontier Medicines
-MolSeek - [using vector databases](https://www.pinecone.io/customers/frontier-medicines/) for AI-based chemical similarity search
+MolSearchGPT - [using vector databases](https://www.pinecone.io/customers/frontier-medicines/) for AI-based chemical similarity search
 
 ### Buonomano Lab, UCLA
 _Papers_
