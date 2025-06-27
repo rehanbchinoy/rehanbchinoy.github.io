@@ -5,7 +5,7 @@ highlighter:      rouge
 title:            Rehan Chinoy
 description:      'ML Engineer, UCLA alum'
 url:              https://rehanchinoy.com/
-baseurl:          https://rehanchinoy.com/
+baseurl:          ''
 
 author:
   name:           'Rehan Chinoy'
